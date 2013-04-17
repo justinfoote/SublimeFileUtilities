@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Utilities: Rename Currently Open File",
+        "command": "rename_current_file"
+    },
+    {
+        "caption": "Utilities: Delete Currently Open File",
+        "command": "delete_current_file"
+    }
+]
